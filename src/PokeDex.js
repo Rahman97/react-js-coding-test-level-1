@@ -94,7 +94,8 @@ function PokeDex() {
           <h2>Requirement:</h2>
           <ul>
             <li>
-              Call thmon name.
+              Call this api:https://pokeapi.co/api/v2/pokemon to get pokedex,
+              and show a list of pokemon name.
             </li>
             <li>Implement React Loading and show it during API call</li>
             <li>
